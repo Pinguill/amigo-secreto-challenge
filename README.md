@@ -32,7 +32,7 @@ La aplicación pone a prueba los conocimientos fundamentales de programación en
 
 1. **Clona el repositorio**
    ```bash
-   git clone [URL-del-repositorio]
+   git clone https://github.com/Pinguill/amigo-secreto-challenge.git
    cd challenge-amigo-secreto_esp-main
    ```
 
